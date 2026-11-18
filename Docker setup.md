@@ -1,4 +1,4 @@
-Docker setup
+# Docker setup
 1- Took a snapshot of the Proxmox VM prior to starting
 2-Ran the ssh sabastian@10.30.27.50 command to SSH into my VM to run my commands
 3- to get the tools for docker's signing key i ran the command - sudo apt update && sudo apt install -y ca-certificates curl
