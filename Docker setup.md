@@ -160,7 +160,45 @@ I realized I ran the command without sudo, causing the permission denied so I ra
 # LINKS
 Please note that all these links are rough as I did not realize I had to record the links and had to go back to find the pages that I had used to figure out what I was doing. 
 
+https://pve.proxmox.com/wiki/Live_Snapshots
 
+https://docs.docker.com/engine/install/ubuntu/
+
+https://docs.docker.com/engine/install/linux-postinstall/
+
+https://docs.docker.com/compose/intro/compose-application-model/
+
+https://docs.docker.com/reference/compose-file/services/
+
+https://docs.docker.com/reference/cli/docker/compose/
+
+https://docs.docker.com/engine/containers/start-containers-automatically/
+
+https://docs.docker.com/engine/storage/bind-mounts/
+
+https://github.com/louislam/uptime-kuma/wiki/%F0%9F%94%A7-How-to-Install
+
+https://www.man7.org/linux/man-pages/man1/ssh-keygen.1.html
+
+https://help.ubuntu.com/community/SSH/OpenSSH/Keys
+
+https://learn.microsoft.com/windows-server/administration/openssh/openssh_keymanagement
+
+https://documentation.ubuntu.com/server/how-to/security/openssh-server
+
+https://www.man7.org/linux/man-pages/man5/sshd_config.5.html
+
+https://documentation.ubuntu.com/server/how-to/security/firewalls
+
+https://docs.docker.com/engine/network/packet-filtering-firewalls/
+
+https://nmap.org/book/man.html
+
+https://documentation.ubuntu.com/server/how-to/software/automatic-updates
+
+https://www.gnu.org/software/tar/manual/tar.html
+
+https://pve.proxmox.com/wiki/Backup_and_Restore
 
 
 
